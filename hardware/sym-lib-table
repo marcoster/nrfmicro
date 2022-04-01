@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Rigado")(type "Legacy")(uri "${KIPRJMOD}/lib/Rigado.lib")(options "")(descr ""))
+)
